@@ -47,11 +47,11 @@ I am continuously exploring my direction in Natural Language Processing. General
 </div> -->
 
 <!-- simple paper -->
-<div><div class="badge">Under Review</div><div>A Quantitative Study of Register Differentiation and Change in Contemporary English: Latinate/Germanic Ratio as a Parameter. **Ruoxi Ning**, Fanke Zeng, Bin Shao.</div></div>
+- `Under Review` A Quantitative Study of Register Differentiation and Change in Contemporary English: Latinate/Germanic Ratio as a Parameter. **Ruoxi Ning**, Fanke Zeng, Bin Shao.
 
-<div><div class="badge">Preprint</div><div>[GLoRE: Evaluating Logical Reasoning of Large Language Models](https://arxiv.org/pdf/2310.09107). Hanmeng Liu, Zhiyang Teng, **Ruoxi Ning**, Jian Liu, Qiji Zhou, Yue Zhang.</div></div>
+- `Preprint` [GLoRE: Evaluating Logical Reasoning of Large Language Models](https://arxiv.org/pdf/2310.09107). Hanmeng Liu, Zhiyang Teng, **Ruoxi Ning**, Jian Liu, Qiji Zhou, Yue Zhang.
 
-<div><div class="badge">ACL 2022 Findings</div> <div>[Challenges to open-domain constituency parsing](https://aclanthology.org/2022.findings-acl.11.pdf). Sen Yang, Leyang Cui, **Ruoxi Ning**, Di Wu, Yue Zhang.</div></div>
+- `ACL 2022 Findings` [Challenges to open-domain constituency parsing](https://aclanthology.org/2022.findings-acl.11.pdf). Sen Yang, Leyang Cui, **Ruoxi Ning**, Di Wu, Yue Zhang.
 
 <!-- # 🔮 Projects -->
 
@@ -74,5 +74,5 @@ I am continuously exploring my direction in Natural Language Processing. General
 
 # 🎹 Interesting Things!
 <!-- - interactive page -->
-- I have a <a href='https://ruoxining.github.io/OBvault'>blog</a> mostly in Chinese Mandarin. I believe that taking notes is a good way forcing one to digest the knowledge duing learning and reinforce the understanding. Welcome to explore my notes in CS, AI, linguistics, and life skills here!
+- I have a blog <a href='https://ruoxining.github.io/OBvault'>🏛️ Mini Babel Library</a> written mostly in Chinese Mandarin. I believe that taking notes is a good way forcing one to digest the knowledge duing learning and reinforce the understanding. Welcome to explore my notes in CS, AI, linguistics, and life skills here!
 <!-- - portfolio -->
