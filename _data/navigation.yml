@@ -27,5 +27,5 @@ main:
   # - title: "Teaching"
   #   url: "/#-teaching"
 
-  # - title: "Interesting Things"
-  #   url: "/#-interesting-things"
+  - title: "Interesting Things"
+    url: "/#-interesting-things"

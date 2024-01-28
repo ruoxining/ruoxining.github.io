@@ -72,7 +72,7 @@ I am continuously exploring my direction in Natural Language Processing. General
 <!-- # 👩🏻‍🏫 Teaching
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 
-<!-- # 🎹 Interesting Things!
-- interactive page
-- blog
-- portfolio -->
+# 🎹 Interesting Things!
+<!-- - interactive page -->
+- I have a <a href='https://ruoxining.github.io/OBvault'>blog</a> mostly in Chinese Mandarin. I believe that taking notes is a good way forcing one to digest the knowledge duing learning and reinforce the understanding. Welcome to explore my notes in CS, AI, linguistics, and life skills here!
+<!-- - portfolio -->
