@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "👩🏻‍💻 Ruoxi Ning"
+title                    : "Ruoxi Ning"
 description              : "My personal webpage."
 repository               : "ruoxining/ruoxining.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ruoxi Ning (宁 若汐)"
+  name             : "Ruoxi Ning \n宁 若汐"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Zhejiang University"
   location         : "Hangzhou, China"
