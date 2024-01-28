@@ -30,7 +30,8 @@ I am continuously exploring my direction in Natural Language Processing. General
 <!-- Allowed emojis: 🎉🎉for good news 📣📣for average news-->
 - *2024.01*: &nbsp;📣📣 I am looking for a PhD position in 24fall. :D
 
-# 📝 Publications <a href='https://scholar.google.com/citations?user=C_WZIIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+# 📝 Publications 
+<a href='https://scholar.google.com/citations?user=C_WZIIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <!-- project view -->
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
