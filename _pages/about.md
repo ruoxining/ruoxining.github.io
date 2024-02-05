@@ -16,10 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+<!-- TODO -->
 
 I am pursuing a double major (English Linguistics & Computer Science) in <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a> and expect to gain my B.A. in June, 2024. I also work as an intern at <a href='https://westlakenlp.netlify.app/'>WestlakeNLP</a> with <a href='https://frcchang.github.io/'>Prof. Yue Zhang</a> (2021. June - now). Previously, I have been visiting <a href='https://statnlp-research.github.io/'>StatNLP</a> with <a href='https://istd.sutd.edu.sg/people/faculty/lu-wei'>Prof. Wei Lu</a> (2023.June - 2023. Oct).
 
-<!-- TODO -->
 Previously, I was an English-language-guaranteed student from <a href='https://en.wikipedia.org/wiki/Jinan_Foreign_Language_School'>Jinan Foreign Language School</a> (exempting Chinese Gaokao). My continuous interest in STEM subjects and my previous experience in winning a 1st Prize in National Olympiad in Informatics in Provinces (NOIP2015, junior group) have driven me to explore and take a double major in Computer Science, which further nurtured my passion for Natual Language Processing (NLP) and Computational Linguistics (CL).
 
 I am continuously exploring my direction in Natural Language Processing. Generally, I wish to develop and improve language technologies applied in real-world settings to cater human needs and to boost human productivity, and to solve linguistic theory, cognition-reality alignment and other language philosophical questions with big data and artificial intelligence technologies.
