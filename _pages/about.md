@@ -16,11 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<!-- TODO -->
 
-I am pursuing a double major (English Linguistics & Computer Science) in <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a> and expect to gain my B.A. in June, 2024. I also work as an intern at <a href='https://westlakenlp.netlify.app/'>WestlakeNLP</a> with <a href='https://frcchang.github.io/'>Prof. Yue Zhang</a> (2021. June - now). Previously, I have been visiting <a href='https://statnlp-research.github.io/'>StatNLP</a> with <a href='https://istd.sutd.edu.sg/people/faculty/lu-wei'>Prof. Wei Lu</a> (2023.June - 2023. Oct).
-
-Previously, I was an English-language-guaranteed student from <a href='https://en.wikipedia.org/wiki/Jinan_Foreign_Language_School'>Jinan Foreign Language School</a> (exempting Chinese Gaokao). My continuous interest in STEM subjects and my previous experience in winning a 1st Prize in National Olympiad in Informatics in Provinces (NOIP2015, junior group) have driven me to explore and take a double major in Computer Science, which further nurtured my passion for Natual Language Processing (NLP) and Computational Linguistics (CL).
+I am pursuing a double major (English Linguistics & Computer Science) in <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a> and expect to gain my B.A. in June, 2024. My undergraduate supervisor is . I also work as an intern at <a href='https://westlakenlp.netlify.app/'>WestlakeNLP</a> with <a href='https://frcchang.github.io/'>Prof. Yue Zhang</a> (2021. June - now). Previously, I have been visiting <a href='https://statnlp-research.github.io/'>StatNLP</a> with <a href='https://istd.sutd.edu.sg/people/faculty/lu-wei'>Prof. Wei Lu</a> (2023.June - 2023. Oct). I am so proud to work with each of them as they are good supervisors that I have learned various virtues from.
 
 I am continuously exploring my direction in Natural Language Processing. Generally, I wish to develop and improve language technologies applied in real-world settings to cater human needs and to boost human productivity, and to solve linguistic theory, cognition-reality alignment and other language philosophical questions with big data and artificial intelligence technologies.
 
@@ -53,18 +50,20 @@ I am continuously exploring my direction in Natural Language Processing. General
 
 - `ACL 2022 Findings` [Challenges to open-domain constituency parsing](https://aclanthology.org/2022.findings-acl.11.pdf). Sen Yang, Leyang Cui, **Ruoxi Ning**, Di Wu, Yue Zhang.
 
-<!-- # 🔮 Projects -->
+# 🔮 Projects
+
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+-->
 
 # 📖 Educations
-- *2019.09 - 2024.06 (now)*, Zhejiang University.
-- *2016.09 - 2019.06*, Jinan Foreign Language School.
+- *2019.09 - 2024.06 (now)*, <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>. Excepting dissertation in BSCS, I am completing all the courses required by a CS double degree till graduation, e.g., OS, TCS, compiling thoery, (courses that most of you concern about :P) etc. Besides, though the CS double-X does not require any AI courses, I still finished many of them e.g., ML, NLP, DS.
+
+- *2016.09 - 2019.06*, <a href='https://en.wikipedia.org/wiki/Jinan_Foreign_Language_School'>Jinan Foreign Language School</a>: I was an English-language-guaranteed student from JFLS (exempting Chinese Gaokao). My continuous interest in STEM subjects and my previous experience in winning a 1st Prize in National Olympiad in Informatics in Provinces (NOIP2015, junior group) have driven me to explore and take a double major in Computer Science, which further nurtured my passion for Natual Language Processing (NLP) and Computational Linguistics (CL).
 
 # 💬 Invited Talks
-- *2022.10*, I gave a presentation on Philosophy of Linguistics at WestlakeNLP. Many thanks to <a href='https://dnaihao.github.io/research.html'>Neo Deng</a> for arranging this meeting!
+- *2022.10*, I gave a presentation on Philosophy of Linguistics at WestlakeNLP. Many thanks to <a href='https://dnaihao.github.io/research.html'>Naihao Deng</a> for arranging this meeting!
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
@@ -73,6 +72,8 @@ I am continuously exploring my direction in Natural Language Processing. General
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 
 # 🎹 Interesting Things!
-<!-- - interactive page -->
 - I have a blog <a href='https://ruoxining.github.io/OBvault'>🏛️ Mini Babel Library</a> written mostly in Chinese Mandarin. I believe that taking notes is a good way forcing one to digest the knowledge duing learning and reinforce the understanding. Welcome to explore my notes in CS, AI, linguistics, and life skills here!
+<!-- - interactive page -->
+<!-- - My interactive page is at [Interactive webpage](ruoxining.github.io/webpageUI) -->
 <!-- - portfolio -->
+- I used to be a part-time graphic designer and this is my [Portfolio](ruoxining.github.io/sub/portfolio). My designs tries to combine simple forms with philosophical implicatures.
