@@ -52,6 +52,17 @@ I am continuously exploring my direction in Natural Language Processing. General
 
 # 🔮 Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -74,6 +85,6 @@ I am continuously exploring my direction in Natural Language Processing. General
 # 🎹 Interesting Things!
 - I have a blog <a href='https://ruoxining.github.io/OBvault'>🏛️ Mini Babel Library</a> written mostly in Chinese Mandarin. I believe that taking notes is a good way forcing one to digest the knowledge duing learning and reinforce the understanding. Welcome to explore my notes in CS, AI, linguistics, and life skills here!
 <!-- - interactive page -->
-<!-- - My interactive page is at [Interactive webpage](ruoxining.github.io/webpageUI) -->
+<!-- - My interactive page is at [Interactive webpage](ruoxining.github.io/subpages/interactUI) -->
 <!-- - portfolio -->
-- I used to be a part-time graphic designer and this is my [Portfolio](ruoxining.github.io/sub/portfolio). My designs tries to combine simple forms with philosophical implicatures.
+<!-- - I used to be a part-time graphic designer and this is my [Portfolio](ruoxining.github.io/subpages/portfolio). My designs tries to combine simple forms with philosophical implicatures. -->
