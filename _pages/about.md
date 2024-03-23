@@ -44,6 +44,8 @@ I am continuously exploring my direction in Natural Language Processing. General
 </div> -->
 
 <!-- simple paper -->
+- `Preprint` [NovelQA: A Benchmark for Long-Range Novel Question Answering](https://arxiv.org/pdf/2403.12766) Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, Guangsheng Bao, Qian Wang, Yue Zhang.
+
 - `Under Review` A Quantitative Study of Register Differentiation and Change in Contemporary English: Latinate/Germanic Ratio as a Parameter. **Ruoxi Ning**, Fanke Zeng, Bin Shao.
 
 - `Preprint` [GLoRE: Evaluating Logical Reasoning of Large Language Models](https://arxiv.org/pdf/2310.09107). Hanmeng Liu, Zhiyang Teng, **Ruoxi Ning**, Jian Liu, Qiji Zhou, Yue Zhang.
