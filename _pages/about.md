@@ -17,55 +17,47 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing a double major (English Linguistics & Computer Science) in <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a> and expect to gain my B.A. in June, 2024. My undergraduate supervisor in School of International Studies is <a href='https://person.zju.edu.cn/en/shaobin'>Bin Shao</a>. I also work as an intern at <a href='https://westlakenlp.netlify.app/'>WestlakeNLP</a> with <a href='https://frcchang.github.io/'>Prof. Yue Zhang</a> (2021. June - now). Previously, I have been visiting <a href='https://statnlp-research.github.io/'>StatNLP</a> with <a href='https://istd.sutd.edu.sg/people/faculty/lu-wei'>Prof. Wei Lu</a> (2023.June - 2023. Oct). I am so proud to work with each of them as they are good supervisors that I have learned various virtues from.
+I am an incoming PhD candidate at <a href='https://uwaterloo.ca/'>, supervised by [Freda Shi](https://uwaterloo.ca/computer-science/about/people/fhs). I am currently pursuing a double major (English Linguistics & Computer Science) in <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a> and expect to gain my B.A. in June, 2024. 
 
-I am continuously exploring my direction in Natural Language Processing. Generally, I wish to develop and improve language technologies applied in real-world settings to cater human needs and to boost human productivity, and to solve linguistic theory, cognition-reality alignment and other language philosophical questions with big data and artificial intelligence technologies.
+My undergraduate supervisor in School of International Studies is <a href='https://person.zju.edu.cn/en/shaobin'>Bin Shao</a>. I also work as an intern at <a href='https://westlakenlp.netlify.app/'>WestlakeNLP</a> with <a href='https://frcchang.github.io/'>Prof. Yue Zhang</a> (2021. June - now). Previously, I have been visiting <a href='https://statnlp-research.github.io/'>StatNLP</a> with <a href='https://istd.sutd.edu.sg/people/faculty/lu-wei'>Prof. Wei Lu</a> (2023.June - 2023. Oct).
+
+I am recently reading and chatting to find future directions or topics to work on. Generally speaking, my interests are related to the following questions:
+
+- Whether the model's proficiency (in contrast to N. Chomsky's capacity) / grammatical correctness / logic reasoning ability, cohesion and coherence / writing style / etc. differ across languages? How to design methods to generalize the proficiencies to minor languages? What about achieving this on smaller models?
+- Can syntax parsing or formal semantics serve as tools for detecting more demands or phenomenon within the NLP fields?
+
+Besides, my undergraduate research covers English lexicon etymology dataset building, logic-reasoning with LLMs, and long-document information retrieval with LLMs. I may not continue on these specific topics in the future, but I also welcome discussions about them.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
 <!-- Allowed emojis: 🎉🎉for good news 📣📣for average news-->
-- *2024.04*: &nbsp;🎉🎉 I will be an incoming Ph.D. candidate to university of Waterloo, co-supervised by [Freda Shi](https://uwaterloo.ca/computer-science/about/people/fhs) and Olga Veksler. I will probably working on topics including multi-lingual, parsing, and formal semantics.
+- *2024.04*: &nbsp;🎉🎉 I will be an incoming Ph.D. candidate to university of Waterloo, co-supervised by [Freda Shi](https://uwaterloo.ca/computer-science/about/people/fhs) and Olga Veksler.
 - *2024.01*: &nbsp;📣📣 I am looking for a PhD position in 24fall. :D
 
 # 📝 Publications 
 <a href='https://scholar.google.com/citations?user=C_WZIIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-<!-- project view -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/novelQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[NovelQA: A Benchmark for Long-Range Novel Question Answering](https://www.codabench.org/competitions/2295/#/pages-tab)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, Guangsheng Bao, Qian Wang, Yue Zhang.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://arxiv.org/pdf/2403.12766) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- NovelQA is a benchmark to evaluate the long-text understanding and retrieval ability of LLMs. This dataset is constructed by manually collecting questions and answers about English novels which are above 50,000 words. Moreover, most of the questions are designed to be focusing on either minor details in the novel, or requiring information spanning multiple chapters, which are inherently challenging for LLMs. We welcome submissions with any LLM with long-context abilities!
+  
 </div>
-</div> -->
+</div>
 
 <!-- simple paper -->
-- `Preprint` [NovelQA: A Benchmark for Long-Range Novel Question Answering](https://arxiv.org/pdf/2403.12766) Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, Guangsheng Bao, Qian Wang, Yue Zhang.
-
 - `Under Review` A Quantitative Study of Register Differentiation and Change in Contemporary English: Latinate/Germanic Ratio as a Parameter. **Ruoxi Ning**, Fanke Zeng, Bin Shao.
 
 - `Preprint` [GLoRE: Evaluating Logical Reasoning of Large Language Models](https://arxiv.org/pdf/2310.09107). Hanmeng Liu, Zhiyang Teng, **Ruoxi Ning**, Jian Liu, Qiji Zhou, Yue Zhang.
 
 - `ACL 2022 Findings` [Challenges to open-domain constituency parsing](https://aclanthology.org/2022.findings-acl.11.pdf). Sen Yang, Leyang Cui, **Ruoxi Ning**, Di Wu, Yue Zhang.
-
-<!-- # 🔮 Projects
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
