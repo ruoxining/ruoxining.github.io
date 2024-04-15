@@ -25,6 +25,7 @@ I am continuously exploring my direction in Natural Language Processing. General
 
 # 🔥 News
 <!-- Allowed emojis: 🎉🎉for good news 📣📣for average news-->
+- *2024.04*: &nbsp;🎉🎉 I will be an incoming Ph.D. candidate to university of Waterloo, co-supervised by [Freda Shi](https://uwaterloo.ca/computer-science/about/people/fhs) and Olga Veksler. I will probably working on topics including multi-lingual, parsing, and formal semantics.
 - *2024.01*: &nbsp;📣📣 I am looking for a PhD position in 24fall. :D
 
 # 📝 Publications 
