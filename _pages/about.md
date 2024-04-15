@@ -61,7 +61,7 @@ Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, 
 -->
 
 # 📖 Educations
-- *2019.09 - 2024.06 (now)*, <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>. Excepting dissertation in BSCS, I am completing all the courses required by a CS double degree till graduation, e.g., OS, TCS, compiling thoery, (courses that most of you concern about :P) etc. Besides, though the CS double-X does not require any AI courses, I still finished many of them e.g., ML, NLP, DS.
+- *2019.09 - 2024.06 (now)*, <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>. I am currently pursuing a double major (English Linguistics & Computer Science). A double major means that excepting dissertation in BSCS, I am completing other core courses required by a CS double degree, e.g. OS, TCS. Besides, though the CS double-X does not require any AI courses, I still finished many of them e.g., ML, NLP, DS.
 
 - *2016.09 - 2019.06*, <a href='https://en.wikipedia.org/wiki/Jinan_Foreign_Language_School'>Jinan Foreign Language School</a>: I was an English-language-guaranteed student from JFLS (exempting Chinese Gaokao). My continuous interest in STEM subjects and my previous experience in winning a 1st Prize in National Olympiad in Informatics in Provinces (NOIP2015, junior group) have driven me to explore and take a double major in Computer Science, which further nurtured my passion for Natual Language Processing (NLP) and Computational Linguistics (CL).
 
