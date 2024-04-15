@@ -41,14 +41,11 @@ Besides, my undergraduate research covers English lexicon etymology dataset buil
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/novelQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[NovelQA: A Benchmark for Long-Range Novel Question Answering](https://www.codabench.org/competitions/2295/#/pages-tab)
+[NovelQA: A Benchmark for Long-Range Novel Question Answering](https://arxiv.org/pdf/2403.12766)
 
 Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, Guangsheng Bao, Qian Wang, Yue Zhang.
 
-[**Project**](https://arxiv.org/pdf/2403.12766) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- NovelQA is a benchmark to evaluate the long-text understanding and retrieval ability of LLMs. This dataset is constructed by manually collecting questions and answers about English novels which are above 50,000 words. Moreover, most of the questions are designed to be focusing on either minor details in the novel, or requiring information spanning multiple chapters, which are inherently challenging for LLMs. We welcome submissions with any LLM with long-context abilities!
-  
+[**NovelQA Online Testbench**](https://www.codabench.org/competitions/2295/#/pages-tab) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> We welcome submissions to run test on our benchmark!
 </div>
 </div>
 
