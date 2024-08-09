@@ -32,6 +32,7 @@ Besides, my undergraduate research covers English lexicon etymology dataset buil
 
 # 🔥 News
 <!-- Allowed emojis: 🎉🎉for good news 📣📣for average news-->
+- *2024.08*: &nbsp;📣📣 I will be participating ACL2024 @Bangkok, looking forward to connecting / chatting with you all!
 - *2024.04*: &nbsp;🎉🎉 I will be an incoming Ph.D. candidate to university of Waterloo, co-supervised by [Freda Shi](https://uwaterloo.ca/computer-science/about/people/fhs) and Olga Veksler.
 - *2024.01*: &nbsp;📣📣 I am looking for a PhD position in 24fall. :D
 
