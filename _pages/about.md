@@ -76,7 +76,7 @@ Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 
 # 🎹 Interesting Things!
-- I have a blog <a href='https://ruoxining.github.io/OBvault'>🏛️ Mini Babel Library</a> written mostly in Chinese Mandarin. I believe that taking notes is a good way forcing one to digest the knowledge duing learning and reinforce the understanding. Welcome to explore my notes in CS, AI, linguistics, and life skills here!
+- I have a blog <a href='https://ruoxining.github.io/notebook'>🏛️ Mini Babel Library</a> written mostly in Chinese Mandarin. I believe that taking notes is a good way forcing one to digest the knowledge duing learning and reinforce the understanding. Welcome to explore my notes in CS, AI, linguistics, and life skills here!
 <!-- - interactive page -->
 <!-- - My interactive page is at [Interactive webpage](ruoxining.github.io/subpages/interactUI) -->
 <!-- - portfolio -->
