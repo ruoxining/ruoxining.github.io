@@ -17,24 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. candidate at <a href='https://uwaterloo.ca/'>UWaterloo</a>, supervised by <a href='https://uwaterloo.ca/computer-science/about/people/fhs'>Freda Shi</a>. I graduated with a double major (English Linguistics & Computer Science) from <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a> in July, 2024. 
+I am a first-year Ph.D. candidate at <a href='https://uwaterloo.ca/'>UWaterloo</a>, supervised by <a href='https://uwaterloo.ca/computer-science/about/people/fhs'>Freda Shi</a>. 
 
-My undergraduate supervisor in School of International Studies is <a href='https://person.zju.edu.cn/en/shaobin'>Bin Shao</a>. I also work as an intern at <a href='https://westlakenlp.netlify.app/'>WestlakeNLP</a> with <a href='https://frcchang.github.io/'>Prof. Yue Zhang</a> (2021. June - now). Previously, I have been visiting <a href='https://statnlp-research.github.io/'>StatNLP</a> with <a href='https://istd.sutd.edu.sg/people/faculty/lu-wei'>Prof. Wei Lu</a> (2023.June - 2023. Oct).
+I also work as an intern at <a href='https://westlakenlp.netlify.app/'>WestlakeNLP</a> with <a href='https://frcchang.github.io/'>Prof. Yue Zhang</a> (2021. June - now). Previously, I have been visiting <a href='https://statnlp-research.github.io/'>StatNLP</a> with <a href='https://istd.sutd.edu.sg/people/faculty/lu-wei'>Prof. Wei Lu</a> (2023. June - 2023. Oct).
 
-I am recently reading and chatting to find future directions or topics to work on. Generally speaking, my interests are related to the following questions:
+I am recently reading and chatting to find future directions or topics to work on. Generally speaking, my interests are related to the following topics:
 
-- Whether the model's proficiency (in contrast to N. Chomsky's capacity) / grammatical correctness / logic reasoning ability, cohesion and coherence / writing style / etc. differ across languages? How to design methods to generalize the proficiencies to minor languages? What about achieving this on smaller models?
-- Can syntax parsing or formal semantics serve as tools for detecting more demands or phenomenon within the NLP fields?
+- **Interpretability**: How do (multimodality) models perform next-word prediction and how do they express their knowledge through this? If treating (multimodality) language models as a human learning everything through vision, language, and audio, they assemble each other very much, and thus abundant linguistic or cognitive science rules should apply to models as well, e.g., the multilingual transfer effect, and Chomsky's hierarchy. We hope to analyze the model's decoding algorithm through methods inspired by these theories and make explanations for model behaviors.
 
-Besides, my undergraduate research covers English lexicon etymology dataset building, logic-reasoning with LLMs, and long-document information retrieval with LLMs. I may not continue on these specific topics in the future, but I also welcome discussions about them.
+- **Computational Linguistics / Cognitive Science**: How can we adopt language models in investigating linguistics and cognitive science questions that cannot be solved by traditional methods? When we wonder how languages got involved in possessing features (e.g., grammar, number systems, color systems), or how the signifier, signified, and meaning are perceived by us, it is impossible for us to either observe the creation of a language or open the brain🧠 to see everything (at least we cannot do this in every situations :\) ). However, it is possible for us to simulate all these situations through language models.
 
+ 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-<!-- Allowed emojis: 🎉🎉for good news 📣📣for average news-->
-- *2024.08*: &nbsp;📣📣 I will be participating ACL2024 @Bangkok, looking forward to connecting / chatting with you all!
-- *2024.04*: &nbsp;🎉🎉 I will be an incoming Ph.D. candidate to university of Waterloo, co-supervised by [Freda Shi](https://uwaterloo.ca/computer-science/about/people/fhs) and Olga Veksler.
-- *2024.01*: &nbsp;📣📣 I am looking for a PhD position in 24fall. :D
+<!-- Allowed emojis: 🎉for good news 📣for average news-->
+
+- *2024.09*: &nbsp;🎉 Recieved [Cohere Graduate Scholarship](https://uwaterloo.ca/current-graduate-students/catalogs/graduate-funding-and-awards-database/cohere-graduate-scholarship-computer-science) awarded by CohereAI and University of Waterloo. Thank you all for recognizing me :D
+
+- *2024.08*: &nbsp;📣 I will be participating ACL2024 @Bangkok, looking forward to connecting / chatting with you all!
+
+- *2024.04*: &nbsp;🎉 I will be an incoming Ph.D. candidate to university of Waterloo, co-supervised by [Freda Shi](https://uwaterloo.ca/computer-science/about/people/fhs) and [Olga Veksler](https://cs.uwaterloo.ca/~oveksler/).
+
 
 # 📝 Publications 
 <a href='https://scholar.google.com/citations?user=C_WZIIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -58,11 +62,13 @@ Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, 
 - `ACL 2022 Findings` [Challenges to open-domain constituency parsing](https://aclanthology.org/2022.findings-acl.11.pdf). Sen Yang, Leyang Cui, **Ruoxi Ning**, Di Wu, Yue Zhang.
 
 <!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: Recieved [Cohere Graduate Scholarship](https://uwaterloo.ca/current-graduate-students/catalogs/graduate-funding-and-awards-database/cohere-graduate-scholarship-computer-science) awarded by CohereAI and University of Waterloo. Thank you all for recognizing me :D
 -->
 
 # 📖 Educations
-- *2019.09 - 2024.06 (now)*, <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>. I am currently pursuing a double major (English Linguistics & Computer Science). A double major means that excepting dissertation in BSCS, I am completing other core courses required by a CS double degree, e.g. OS, TCS. Besides, though the CS double-X does not require any AI courses, I still finished many of them e.g., ML, NLP, DS.
+- *2024.09 - 2029.06(expected)*, <a href='https://www.zju.edu.cn/english/'>University of Waterloo</a>, <a href='https://cs.uwaterloo.ca/'>David R. Cheriton School of Computer Science</a>, Ph.D. candidate.
+
+- *2019.09 - 2024.07*, <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>. I am currently pursuing a double major (English Linguistics & Computer Science). A double major means that excepting dissertation in BSCS, I am completing other core courses required by a CS double degree, e.g. OS, TCS. Besides, though the CS double-X does not require any AI courses, I still finished many of them e.g., ML, NLP, DS. I worked with <a href='https://person.zju.edu.cn/en/shaobin'>Bin Shao</a> from School of International Studies on finding the relevance between word origins and text formality in English language.
 
 - *2016.09 - 2019.06*, <a href='https://en.wikipedia.org/wiki/Jinan_Foreign_Language_School'>Jinan Foreign Language School</a>: I was an English-language-guaranteed student from JFLS (exempting Chinese Gaokao). My continuous interest in STEM subjects and my previous experience in winning a 1st Prize in National Olympiad in Informatics in Provinces (NOIP2015, junior group) have driven me to explore and take a double major in Computer Science, which further nurtured my passion for Natual Language Processing (NLP) and Computational Linguistics (CL).
 
@@ -72,11 +78,14 @@ Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
   
-<!-- # 👩🏻‍🏫 Teaching
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
+# 🧑‍🏫 Teaching
+- *2024.09 - 2024.12*, Teaching Assistant, CS486/686 Introduction to Artificail Intelligence (Fall 2024).
 
-# 🎹 Interesting Things!
+# 🎹 Interesting Facts!
 - I have a blog <a href='https://ruoxining.github.io/notebook'>🏛️ Mini Babel Library</a> written mostly in Chinese Mandarin. I believe that taking notes is a good way forcing one to digest the knowledge duing learning and reinforce the understanding. Welcome to explore my notes in CS, AI, linguistics, and life skills here!
+- I am a foreign language learner. Besides Chinese and English, I can also use French (~B1) and German (~A1) and I am eagerly learning them. My wish is to reach at least B2 in these two languages before graduation. Be my Duolingo friend at [minervaning](https://www.duolingo.com/profile/minervaning).
+
+
 <!-- - interactive page -->
 <!-- - My interactive page is at [Interactive webpage](ruoxining.github.io/subpages/interactUI) -->
 <!-- - portfolio -->

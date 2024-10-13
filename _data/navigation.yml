@@ -24,8 +24,8 @@ main:
   # - title: "Internships"
   #   url: "/#-internships"
   
-  # - title: "Teaching"
-  #   url: "/#-teaching"
+  - title: "Teaching"
+    url: "/#-teaching"
 
-  - title: "Interesting Things"
-    url: "/#-interesting-things"
+  - title: "Interesting Facts"
+    url: "/#-interesting-facts"
