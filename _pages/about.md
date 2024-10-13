@@ -19,9 +19,9 @@ redirect_from:
 
 I am a first-year Ph.D. candidate at <a href='https://uwaterloo.ca/'>UWaterloo</a>, supervised by <a href='https://uwaterloo.ca/computer-science/about/people/fhs'>Freda Shi</a>. 
 
-I also work as an intern at <a href='https://westlakenlp.netlify.app/'>WestlakeNLP</a> with <a href='https://frcchang.github.io/'>Prof. Yue Zhang</a> (2021. June - now). Previously, I have been visiting <a href='https://statnlp-research.github.io/'>StatNLP</a> with <a href='https://istd.sutd.edu.sg/people/faculty/lu-wei'>Prof. Wei Lu</a> (2023. June - 2023. Oct).
+During my undergraduate years in <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>, I pursued a double major in English linguistics and computer science. I worked as an intern at <a href='https://westlakenlp.netlify.app/'>WestlakeNLP</a> with <a href='https://frcchang.github.io/'>Prof. Yue Zhang</a> (2021. June - now). I have also been visiting <a href='https://statnlp-research.github.io/'>StatNLP</a> with <a href='https://istd.sutd.edu.sg/people/faculty/lu-wei'>Prof. Wei Lu</a> (2023. June - 2023. Oct).
 
-I am recently reading and chatting to find future directions or topics to work on. Generally speaking, my interests are related to the following topics:
+I am recently reading and discussing to decide my directions and welcoming a wide range of ideas to work on. Generally, my interests fall in the following topics:
 
 - **Interpretability**: How do (multimodality) models perform next-word prediction and how do they express their knowledge through this? If treating (multimodality) language models as a human learning everything through vision, language, and audio, they assemble each other very much, and thus abundant linguistic or cognitive science rules should apply to models as well, e.g., the multilingual transfer effect, and Chomsky's hierarchy. We hope to analyze the model's decoding algorithm through methods inspired by these theories and make explanations for model behaviors.
 
