@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi everyone! I am a first-year Ph.D. candidate at <a href='https://uwaterloo.ca/'>UWaterloo</a>, supervised by <a href='https://uwaterloo.ca/computer-science/about/people/fhs'>Freda Shi</a>. 
+Hi everyone! My name is Ruoxi Ning [宁若汐]. I am a first-year Ph.D. candidate at <a href='https://uwaterloo.ca/'>UWaterloo</a>, supervised by <a href='https://uwaterloo.ca/computer-science/about/people/fhs'>Freda Shi</a>. 
 
 During my undergraduate years in <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>, I pursued a double major in English linguistics and computer science. I worked as an intern at <a href='https://westlakenlp.netlify.app/'>WestlakeNLP</a> with <a href='https://frcchang.github.io/'>Prof. Yue Zhang</a> (2021. June - now). I have also been visiting <a href='https://statnlp-research.github.io/'>StatNLP</a> with <a href='https://istd.sutd.edu.sg/people/faculty/lu-wei'>Prof. Wei Lu</a> (2023. June - 2023. Oct).
 
@@ -68,7 +68,7 @@ Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, 
 # 📖 Educations
 - *2024.09 - 2029.06(expected)*, <a href='https://www.zju.edu.cn/english/'>University of Waterloo</a>, <a href='https://cs.uwaterloo.ca/'>David R. Cheriton School of Computer Science</a>, Ph.D. candidate.
 
-- *2019.09 - 2024.07*, <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>. I am currently pursuing a double major (English Linguistics & Computer Science). A double major means that excepting dissertation in BSCS, I am completing other core courses required by a CS double degree, e.g. OS, TCS. Besides, though the CS double-X does not require any AI courses, I still finished many of them e.g., ML, NLP, DS. I worked with <a href='https://person.zju.edu.cn/en/shaobin'>Bin Shao</a> from School of International Studies on finding the relevance between word origins and text formality in English language.
+- *2019.09 - 2024.07*, <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>. I received a double major (English Linguistics & Computer Science). A double major means that I am completing core courses except a dissertation in CS required by a CS double degree, e.g. OS, TCS. Besides, though the CS double-X does not require any AI courses, I still finished many of them e.g., ML, NLP, DS. For research, I worked with <a href='https://person.zju.edu.cn/en/shaobin'>Bin Shao</a> from School of International Studies on finding the relevance between word origins and text formality in English language.
 
 - *2016.09 - 2019.06*, <a href='https://en.wikipedia.org/wiki/Jinan_Foreign_Language_School'>Jinan Foreign Language School</a>: I was an English-language-guaranteed student from JFLS (exempting Chinese Gaokao). My continuous interest in STEM subjects and my previous experience in winning a 1st Prize in National Olympiad in Informatics in Provinces (NOIP2015, junior group) have driven me to explore and take a double major in Computer Science, which further nurtured my passion for Natual Language Processing (NLP) and Computational Linguistics (CL).
 
