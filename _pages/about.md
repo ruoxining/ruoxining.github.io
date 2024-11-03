@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi everyone! My name is Ruoxi Ning [宁若汐]. I am a first-year Ph.D. candidate at <a href='https://uwaterloo.ca/'>UWaterloo</a>, supervised by <a href='https://uwaterloo.ca/computer-science/about/people/fhs'>Freda Shi</a>. 
+Hi everyone! My name is Ruoxi Ning [宁若汐] (Minerva). I am a first-year Ph.D. candidate at <a href='https://uwaterloo.ca/'>UWaterloo</a>, supervised by <a href='https://uwaterloo.ca/computer-science/about/people/fhs'>Freda Shi</a>. 
 
 During my undergraduate years in <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>, I pursued a double major in English linguistics and computer science. I worked as an intern at <a href='https://westlakenlp.netlify.app/'>WestlakeNLP</a> with <a href='https://frcchang.github.io/'>Prof. Yue Zhang</a> (2021. June - now). I have also been visiting <a href='https://statnlp-research.github.io/'>StatNLP</a> with <a href='https://istd.sutd.edu.sg/people/faculty/lu-wei'>Prof. Wei Lu</a> (2023. June - 2023. Oct).
 
