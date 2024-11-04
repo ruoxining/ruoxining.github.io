@@ -31,13 +31,12 @@ I am recently reading and discussing to decide my directions and welcoming a wid
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-<!-- Allowed emojis: 🎉for good news 📣for average news-->
 
-- *2024.09*: &nbsp;🎉 Recieved [Cohere Graduate Scholarship](https://uwaterloo.ca/current-graduate-students/catalogs/graduate-funding-and-awards-database/cohere-graduate-scholarship-computer-science) awarded by CohereAI and University of Waterloo. Thank you all for recognizing me :D
+- *2024.09*: &nbsp; Recieved [Cohere Graduate Scholarship](https://uwaterloo.ca/current-graduate-students/catalogs/graduate-funding-and-awards-database/cohere-graduate-scholarship-computer-science) awarded by CohereAI and University of Waterloo. Thank you all for recognizing me :D
 
-- *2024.08*: &nbsp;📣 I will be participating ACL2024 @Bangkok, looking forward to connecting / chatting with you all!
+- *2024.08*: &nbsp; I will be participating ACL2024 @Bangkok, looking forward to connecting / chatting with you all!
 
-- *2024.04*: &nbsp;🎉 I will be an incoming Ph.D. candidate to university of Waterloo, co-supervised by [Freda Shi](https://uwaterloo.ca/computer-science/about/people/fhs) and [Olga Veksler](https://cs.uwaterloo.ca/~oveksler/).
+- *2024.04*: &nbsp; I will be an incoming Ph.D. candidate to university of Waterloo, co-supervised by [Freda Shi](https://uwaterloo.ca/computer-science/about/people/fhs) and [Olga Veksler](https://cs.uwaterloo.ca/~oveksler/).
 
 
 # 📝 Publications 
