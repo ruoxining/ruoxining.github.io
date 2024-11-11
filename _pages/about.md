@@ -54,7 +54,11 @@ Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, 
 </div>
 
 <!-- simple paper -->
-- `Under Review` A Quantitative Study of Register Differentiation and Change in Contemporary English: Latinate/Germanic Ratio as a Parameter. **Ruoxi Ning**, Fanke Zeng, Bin Shao.
+
+- `EMNLP 2024 Demo` [TAIL: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation](https://aclanthology.org/2024.emnlp-demo.21/). Gefei Gu, Yilun Zhao, **Ruoxi Ning**, Yanan Zheng, Arman Cohan.
+
+<!-- 
+- `Under Review` A Quantitative Study of Register Differentiation and Change in Contemporary English: Latinate/Germanic Ratio as a Parameter. **Ruoxi Ning**, Fanke Zeng, Bin Shao. -->
 
 - `Preprint` [GLoRE: Evaluating Logical Reasoning of Large Language Models](https://arxiv.org/pdf/2310.09107). Hanmeng Liu, Zhiyang Teng, **Ruoxi Ning**, Jian Liu, Qiji Zhou, Yue Zhang.
 
@@ -84,6 +88,8 @@ Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, 
 - I have a blog <a href='https://ruoxining.github.io/notebook'>🏛️ Mini Babel Library</a> written mostly in Chinese Mandarin. I believe that taking notes is a good way forcing one to digest the knowledge duing learning and reinforce the understanding. Welcome to explore my notes in CS, AI, linguistics, and life skills here!
   
 - I am a foreign language learner. Besides Chinese and English, I can also use French (~B1) and German (~A1) and I am eagerly learning them. My wish is to reach at least B2 in these two languages before graduation. Be my Duolingo friend at [minervaning](https://www.duolingo.com/profile/minervaning).
+
+- I enjoy reading philosophy, linguistics, and classics. I am also a big fan of German and Austrian musicals and classical music, especially the works of Richard Wargner, Edward Grieg, Sergei Rachmaninoff, Richard Strauss, and Philip Glass. 🎵
 
 
 <!-- - interactive page -->
