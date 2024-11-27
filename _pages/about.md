@@ -87,7 +87,7 @@ Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, 
 # 🎹 Interesting Facts!
 - I have a blog <a href='https://ruoxining.github.io/notebook'>🏛️ Mini Babel Library</a> written mostly in Chinese Mandarin. I believe that taking notes is a good way forcing one to digest the knowledge duing learning and reinforce the understanding. Welcome to explore my notes in CS, AI, linguistics, and life skills here!
   
-- I am a foreign language learner. Besides Chinese and English, I can also use French (~B1) and German (~A1) and I am eagerly learning them. My wish is to reach at least B2 in these two languages before graduation. Be my Duolingo friend @[Minerva Ning](https://www.duolingo.com/profile/minervaning).
+- I am a foreign language learner. Besides Chinese and English, I can also use French (~B1) and German (~A1) and I am eagerly learning them. My wish is to reach at least B2 in these two languages before graduation. Be my Duolingo friend @[minervaning](https://www.duolingo.com/profile/minervaning).
 
 - I enjoy reading philosophy, linguistics, and classics. I am also a big fan of German and Austrian musicals and classical music, especially the works of Richard Wargner, Edward Grieg, Sergei Rachmaninoff, Richard Strauss, and Philip Glass. 🎵
 
