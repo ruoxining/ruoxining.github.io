@@ -57,7 +57,7 @@ Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, 
 
 - `EMNLP 2024 Demo` [TAIL: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation](https://aclanthology.org/2024.emnlp-demo.21/). Gefei Gu, Yilun Zhao, **Ruoxi Ning**, Yanan Zheng, Arman Cohan.
 
-- `Bachelor Dissertation` A Quantitative Study of Register Differentiation and Change in Contemporary English: Latinate/Germanic Ratio as a Parameter. **Ruoxi Ning**, Bin Shao.
+- `Bachelor Dissertation` A Quantitative Study of Register Differentiation and Change in Contemporary English: Latinate/Germanic Ratio as a Parameter. **Ruoxi Ning**, Bin Shao. **Distinguished Bachelor Dissertation Award [Top 10]**.
 
 - `Preprint` [GLoRE: Evaluating Logical Reasoning of Large Language Models](https://arxiv.org/pdf/2310.09107). Hanmeng Liu, Zhiyang Teng, **Ruoxi Ning**, Jian Liu, Qiji Zhou, Yue Zhang.
 
