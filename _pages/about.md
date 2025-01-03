@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi everyone! My name is Ruoxi Ning [宁若汐]. I am a first-year Ph.D. candidate at <a href='https://uwaterloo.ca/'>UWaterloo</a>, supervised by <a href='https://uwaterloo.ca/computer-science/about/people/fhs'>Freda Shi</a>. 
+Hi all! My name is Ruoxi Ning [宁若汐]. I am a first-year Ph.D. candidate at <a href='https://uwaterloo.ca/'>UWaterloo</a>, supervised by <a href='https://uwaterloo.ca/computer-science/about/people/fhs'>Freda Shi</a>. 
 
 During my undergraduate years in <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a>, I pursued a double major in English linguistics and computer science. I worked as an intern at <a href='https://westlakenlp.netlify.app/'>WestlakeNLP</a> with <a href='https://frcchang.github.io/'>Prof. Yue Zhang</a> (2021. Jun. - 2024. Jul.). I have also been visiting <a href='https://statnlp-research.github.io/'>StatNLP</a> with <a href='https://istd.sutd.edu.sg/people/faculty/lu-wei'>Prof. Wei Lu</a> (2023. Jun. - 2023. Oct).
 
@@ -81,6 +81,7 @@ Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
   
 # 🧑‍🏫 Teaching
+- *2025.01 - 2025.04*, Teaching Assistant, CS486/686 Introduction to Artificail Intelligence (Winter 2025).
 - *2024.09 - 2024.12*, Teaching Assistant, CS486/686 Introduction to Artificail Intelligence (Fall 2024).
 
 # 🎹 Interesting Facts!
