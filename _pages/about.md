@@ -36,13 +36,13 @@ I am recently reading and discussing to decide my directions and welcoming a wid
 
 - *2024.08*: I will be participating ACL2024 @Bangkok, looking forward to connecting / chatting with you all!
 
-- *2024.04*: I will be an incoming Ph.D. candidate to university of Waterloo, co-supervised by [Freda Shi](https://uwaterloo.ca/computer-science/about/people/fhs) and [Olga Veksler](https://cs.uwaterloo.ca/~oveksler/).
+- *2024.04*: I will be an incoming Ph.D. student to university of Waterloo, co-supervised by [Freda Shi](https://uwaterloo.ca/computer-science/about/people/fhs) and [Olga Veksler](https://cs.uwaterloo.ca/~oveksler/).
 
 
 # 📝 Publications 
 <a href='https://scholar.google.com/citations?user=C_WZIIYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/novelQA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/novelQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NovelQA: A Benchmark for Long-Range Novel Question Answering](https://arxiv.org/pdf/2403.12766)
@@ -59,7 +59,7 @@ Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, 
 
 - `Bachelor Dissertation` A Quantitative Study of Register Differentiation and Change in Contemporary English: Latinate/Germanic Ratio as a Parameter. **Ruoxi Ning**, Bin Shao. **Distinguished Bachelor Dissertation Award [Top 10]**.
 
-- `Preprint` [GLoRE: Evaluating Logical Reasoning of Large Language Models](https://arxiv.org/pdf/2310.09107). Hanmeng Liu, Zhiyang Teng, **Ruoxi Ning**, Jian Liu, Qiji Zhou, Yue Zhang.
+- `CoRR 2023` [GLoRE: Evaluating Logical Reasoning of Large Language Models](https://arxiv.org/pdf/2310.09107). Hanmeng Liu, Zhiyang Teng, **Ruoxi Ning**, Jian Liu, Qiji Zhou, Yue Zhang.
 
 - `ACL 2022 Findings` [Challenges to open-domain constituency parsing](https://aclanthology.org/2022.findings-acl.11.pdf). Sen Yang, Leyang Cui, **Ruoxi Ning**, Di Wu, Yue Zhang.
 
@@ -80,6 +80,15 @@ Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
   
+# 🪑 Services
+- *Committee*:
+  - ICLR 2025 Workshop on Bidirectional Human-AI Alignment.
+  - ICLR 2025 Workshop on Reasoning and Planning for Large Language Models.
+- *Reviewer*:
+  - ACL 2025
+  - IJCAI 2025
+
+
 # 🧑‍🏫 Teaching
 - *2025.01 - 2025.04*, Teaching Assistant, CS486/686 Introduction to Artificail Intelligence (Winter 2025).
 - *2024.09 - 2024.12*, Teaching Assistant, CS486/686 Introduction to Artificail Intelligence (Fall 2024).
