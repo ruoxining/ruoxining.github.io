@@ -98,7 +98,7 @@ Cunxiang Wang*, **Ruoxi Ning\***, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, 
   
 - I am a foreign language learner. Besides Chinese and English, I can also use French (~B1) and German (~A1) and I am eagerly learning them. My wish is to reach at least B2 in these two languages before graduation. Be my Duolingo friend @[minervaning](https://www.duolingo.com/profile/minervaning).
 
-- I enjoy reading philosophy, linguistics, and classics. I am also a big fan of German and Austrian musicals and classical music, especially the works of Richard Wargner, Edward Grieg, Sergei Rachmaninoff, Richard Strauss, and Philip Glass. 🎵
+- I enjoy reading philosophy, linguistics, and classics. I am also a big fan of German and Austrian musicals and classical music, especially the works of Richard Wagner, Edvard Grieg, Sergei Rachmaninoff, and Richard Strauss. 🎵
 
 
 <!-- - interactive page -->
